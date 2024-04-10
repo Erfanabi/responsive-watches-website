@@ -1,8 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+# About The Project
 
-# Responsive Watches Website ⌚
+### Responsive Watches Website ⌚
 
 - Responsive Watches Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
