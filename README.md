@@ -20,6 +20,7 @@
 - Html
 - Css
 - Js
+- Scss
 
 ## Getting Started
 
